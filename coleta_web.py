@@ -26,3 +26,4 @@ for linha_texto in extracao.find_all("p"):
 
 print("Quantidade de hs = ",counth2)
 print("Quantidade de p = ", countp)
+print("")
