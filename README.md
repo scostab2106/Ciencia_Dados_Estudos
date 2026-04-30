@@ -1,2 +1,2 @@
-# Ciencia_Dados_Estudos
-Repositório com prejetos de estudo de Ciência de dados
+# Data_Science_Studies
+Study projects from data science
